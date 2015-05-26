@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/StarMaker">
+        <file>Resources/icons/StarMaker.png</file>
+    </qresource>
+</RCC>
